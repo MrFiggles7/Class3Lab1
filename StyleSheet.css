@@ -1,0 +1,24 @@
+button {
+    width: 10em;
+    height: 10em;
+    text-align: center;
+    float: left;
+    margin-left: 6em;
+    margin-top: 2em;
+    font-size: 3em;
+    font-weight: bold;
+    border: solid purple 3px;
+    border-radius: 25px;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    border: solid purple 3px;
+    border-radius: 25px;
+    background-color: lightblue;
+}
+
+body {
+    background-color: lightgrey;
+}
